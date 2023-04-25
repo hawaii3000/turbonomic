@@ -6,7 +6,7 @@ crontab -e
 
 2.Add the following line to schedule the script to run every day at 5 PM:
 
-0 17 * * * /root/turbo-auto-upgrade/upgrade-check.sh
+0 17 * * * /root/turbonomic-scripts/turbo-auto-upgrade/upgrade-check.sh
 
 This configuration will run the /root/turbo-auto-upgrade/upgrade-check.sh script every day at 17:00 (5 PM in 24-hour format).
 
