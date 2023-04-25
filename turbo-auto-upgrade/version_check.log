@@ -1,0 +1,15 @@
+2023-04-24 06:34:27 - jq is already installed.
+2023-04-24 06:34:28 - Current version: 8.8.3
+2023-04-24 06:34:30 - New version found: 8.8.4
+2023-04-24 06:34:31 - New version found: 8.8.5
+2023-04-24 06:34:32 - New version not found: 8.8.6
+2023-04-24 06:34:33 - Download completed: onlineUpgrade-8.8.5.sh
+2023-04-24 06:38:44 - onlineUpgrade-8.8.5.sh executed.
+2023-04-24 17:29:14 - jq is already installed.
+2023-04-24 17:29:15 - Current version: 
+2023-04-24 17:29:17 - New version not found: ..1
+2023-04-24 17:29:17 - No new version found.
+2023-04-24 17:34:40 - jq is already installed.
+2023-04-24 17:34:41 - Current version: 
+2023-04-24 17:34:42 - New version not found: ..1
+2023-04-24 17:34:42 - No new version found.
